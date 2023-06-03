@@ -1,8 +1,10 @@
 # XoXo
+An E-commerce web application App Created with ❤️ by <a href="https://github.com/sean-code">Sean Nganga</a>
 
-An E-commerce web application where you get to shop exciting &amp; new items.
+You get to shop exciting &amp; new items.
 
-Main Features:
+
+`Main Features:
 
 - Login to get latest updates
 - Sign-up to get latest updates and also make seamless payments for goods bought
