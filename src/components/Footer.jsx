@@ -90,7 +90,7 @@ function Footer() {
                 className="text-blueGray-500 hover:text-blueGray-800"
               >
                 {" "}
-                Faith❤️
+                Sean Nganga❤️
               </a>
               .
             </div>
